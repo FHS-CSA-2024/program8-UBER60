@@ -1,7 +1,7 @@
 //import stuff here
 import java.util.Scanner;
 //Your code here
-public class Program8{
+public class Program{
   public static void main(String[] args){
     Scanner x = new Scanner(System.in);
     System.out.print("Enter number 1: ");
